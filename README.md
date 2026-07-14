@@ -38,3 +38,16 @@ Suggestions:
 - AI-powered feedback using Gemini API
 - Job-role based resume matching
 - Resume ranking system
+  ## Screenshots
+
+### Resume Upload
+![Resume Upload](upload.png)
+
+### Skills Detection
+![Skills Detection](skills.png)
+
+### Resume Score
+![Resume Score](score.png)
+
+### Suggestions
+![Suggestions](suggestions.png)
